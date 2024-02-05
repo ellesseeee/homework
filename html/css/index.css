@@ -1,0 +1,33 @@
+.logo {
+	 float: left;
+}
+ nav {
+	 float: left;
+	 text-align: left;
+}
+ nav ul {
+	 margin:10 ;
+	 padding : 5;
+	 list-style: none;
+	 
+}
+ nav li {
+	 display: flex;
+}
+ body {
+	 background: #000000;
+	 color: #fff;
+}
+ a {
+	 color: darkgreen
+	 
+}
+ h1 {
+	 color: greenyellow
+}
+ p {
+	 color: purple
+}
+ ol {
+	 color: #008000
+}
